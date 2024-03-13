@@ -1,0 +1,19 @@
+.bai5{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.bai5-container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.bai5-btn{
+    color: white;
+    background-color: red;
+    margin-top: 5px;
+}
